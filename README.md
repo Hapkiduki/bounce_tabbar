@@ -6,7 +6,7 @@ A new Flutter project.
 
 ![Tabbar Demo](tabbar.gif)
 
-credits to Diego Velásquez 
+credits to [Diego Velásquez](http://diegoveloper.com/)
 
 This project is a starting point for a Flutter application.
 
